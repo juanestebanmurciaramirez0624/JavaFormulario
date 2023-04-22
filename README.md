@@ -3,8 +3,11 @@ Se puede visualizar un formulario de registro que cuenta con cuatro campos los c
 Estos campos son:
 
 Nombre: Un campo obligatorio, que al momento de ingresar se enfoca automáticamente, aceptando letras de la a-z tanto mayúsculas como minúsculas con espacios, el dato registrado debe contar con al menos 2 caracteres registrados siendo el máximo 40 
+
 Apellido: Un campo obligatorio que acepta letras de la a-z tanto mayúsculas como minúsculas con espacios que cuenten de 2 a 40 caracteres
+
 Correo electrónico: Un campo obligatorio que acepta datos tipo email que cuentan de 0-60 caracteres  
+
 Contraseña:Un campo obligatorio que solo acepta que se registre datos entre 8-16 caracteres, con aunque sea un dígito, con al menos una minuscula y mayuscula
 
 El formulario también cuenta con dos botones uno tipo enlace para ingresar y un botón tipo submit para enviar los datos del formulario 
