@@ -32,11 +32,11 @@
         <div class="container">
         <div class="mb-3">
             <label for="firstName" class="form-label">Nombre:</label>
-            <input type="text" class="form-control" id="firstName"  name="firstName" aria-describedby="emailHelp" placeholder="Nombres" required autofocus pattern="[a]\s[a][A-Za-z][{2,40}">
+            <input type="text" class="form-control" id="firstName"  name="firstName" placeholder="Nombres" required autofocus pattern="[a]\s[a][A-Za-z][{2,40}">
         </div>
         <div class="mb-3">
         <label for="lastName" class="form-label">Apellidos: </label>
-        <input type="text" class="form-control" id="lastName" name="lastName" placeholder="Apellidos" required pattern="[a]\s[a][A-Za-z]{2,40}">
+        <input type="text" class="form-control" id="lastName" name="lastName" placeholder="Apellidos" required pattern="[a]\s[a][A-Za-z][{2,40}">
     </div>
     <div class="mb-3">
         <label for="email" class="form-label">Correo:</label>
